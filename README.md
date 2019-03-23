@@ -2,6 +2,13 @@
 
 Repositorio para analisis exploratorio de Organizacion de Datos TP1 
 
+-----------------
+## Requerimientos
+
+* Instalar **git-lfs** para el manejo de archivos grandes en el repo.
+
+* **JupyterLab** o **JupyterNotebook**
+
 --------------
 ## Guia de uso
 

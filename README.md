@@ -14,12 +14,21 @@ Repositorio para analisis exploratorio de Organizacion de Datos TP1
 
 1. Usar carpeta con nombre de cada uno para notebooks en progreso que quieran compartir
 
-2. Descomprimir zip en carpeta *data* para poder utilizar en los notebooks.
-
-3. Agregar en seccion Preguntas pendientes los analisis exploratorios que se les ocurran y esten pendientes de hacer.
+2. Agregar en seccion Preguntas pendientes los analisis exploratorios que se les ocurran y esten pendientes de hacer.
 
 ---------------------------
-## Exploratorios pendientes
+## Exploratorios en curso o pendientes
 
-1. Distribucion de las columnas y como se relacionan entre si.
+### Nico
+
+Encuestas: 
+* Cantidad de veces promedio que aparece un dispositivo en una subaste
+* Tiempo promedio entre apariciones del dispositivo.
+
+Clicks:
+* Cuantos clicks se hacen antes de una compra? 
+* Tiempo promedio hasta un click
+
+Installs: 
+* Afecta el wifi a la cantidad de installs/compras?
 

@@ -2,6 +2,8 @@
 
 Repositorio para analisis exploratorio de Organizacion de Datos TP1 
 
+Link al [informe](https://docs.google.com/document/d/1Q2qHAReHfwILs0_l3KNQyfZEAjiAgGucrc9EMZFWXmU/edit?usp=sharing)
+
 -----------------
 ## Requerimientos
 

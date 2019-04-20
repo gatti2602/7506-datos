@@ -3,7 +3,7 @@ Clicks
 Campos: 
 Advertiser: Clientes de Jaamp, quienes pagan por la publicidad.
 Actions: Alguna accion con el telefono
-Source? 
+Source? -> Que es esto?
 Agente?
 ref_type? Google Advertising ID??
 ref_hash? Device Google Advertising ID?

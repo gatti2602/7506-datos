@@ -3,3 +3,9 @@ Usar KNN para asignar prob de que convierta
 Usar neuronas para campos numericos
 
 Arboles de decision para regresion final
+
+
+---
+installs: 
+
+Cantidad de aplicaciones distintas que ya instaló

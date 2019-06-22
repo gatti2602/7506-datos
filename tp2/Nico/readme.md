@@ -32,9 +32,9 @@ Features posibles
 |Auctions|Se realizó subastan entre [0,2] hs|alta_demanda|Lucas|-
 |Auctions|Ponderación respecto a horarios|pond_hora_ext|Lucas|-
 |Auctions|Aparecio el fin de semana?|appears_on_weekend |Manu|-
-|Events|Cant. de cada evento|(En curso)|Manu|-
-|Events|Ultimo evento|(En curso)|Manu|-
-|Events|Ultimos eventos fueron con wifi?|-|-|-
+|Events|Cant. de cada evento|amount_events|Manu|-
+|Events|Ultimo evento|last_event (y los que no tienen events?)|Manu|-
+|Events|Ultimos eventos fueron con wifi?|(En curso)| Manu |-
 |Events|Secuencia de n eventos|-|-|-
 |Installs|Cant. de Apps distintas instaladas|?|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-

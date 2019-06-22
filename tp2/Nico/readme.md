@@ -25,7 +25,7 @@ Features posibles
 |Auctions|Cant. de sources distintos que tienen el dispositivo|amount_dif_src |Manu|-
 |Auctions|Cant. de apariciones totales|auctions_total (En curso)|Nico|-
 |Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour (en curso)|Nico|-
-|Auctions|Tiempo medio entre apariciones|(En curso)|Manu|-
+|Auctions|Tiempo medio entre apariciones|-|-|-
 |Auctions|lambda de una exponencial en los tiempos de un usuario|-|-|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
 |Auctions|Cuantas veces aparecio el 20 o 21|-|-|-

@@ -23,8 +23,8 @@ Features posibles
 |Dataframe|Feature|Implementado en Col.|Implementado Por|Funciona?|
 |---------|-------|--------------------|----------------|---------|
 |Auctions|Cant. de sources distintos que tienen el dispositivo|amount_dif_src |Manu|-
-|Auctions|Cant. de apariciones totales|auctions_total (En curso)|Nico|-
-|Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour (en curso)|Nico|-
+|Auctions|Cant. de apariciones totales|auctions_total|Nico|-
+|Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour|Nico|-
 |Auctions|Tiempo medio entre apariciones|(En curso)|Manu|-
 |Auctions|lambda de una exponencial en los tiempos de un usuario|-|-|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|

@@ -42,6 +42,6 @@ Features posibles
 |Installs|Cantidad de clicks por evento|-|-|-
 |Installs|Una vez armado los features, cuantos K vecinos instalaron|-|-|-
 |Clicks|Armar dimensiones de device y ver cuarto donde tiende a hacer clicks|-|-|-
-|Clicks|Cantidad de Advertisers que los tiene|timeToClick_mean|Manu|-
-|Clicks|Tiempo promedio de clicks|amount_dif_advertisers|Manu|-
+|Clicks|Cantidad de Advertisers que los tiene|amount_dif_advertisers|Manu|-
+|Clicks|Tiempo promedio de clicks|timeToClick_mean |Manu|-
  

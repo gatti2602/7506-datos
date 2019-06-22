@@ -36,7 +36,7 @@ Features posibles
 |Events|Ultimo evento|(En curso)|Manu|-
 |Events|Ultimos eventos fueron con wifi?|-|-|-
 |Events|Secuencia de n eventos|-|-|-
-|Installs|Cant. de Apps distintas instaladas|-|-|-
+|Installs|Cant. de Apps distintas instaladas|?|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
 |Installs|Instaló en la ventana anterior|-|-|-
 |Installs|Cantidad de clicks por evento|-|-|-

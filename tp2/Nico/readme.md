@@ -36,12 +36,12 @@ Features posibles
 |Events|Ultimo evento|last_event (y los que no tienen events?)|Manu|-
 |Events|Ultimos eventos fueron con wifi?| wifi | Manu |-
 |Events|Secuencia de n eventos|-|-|-
-|Installs|Cant. de Apps distintas instaladas|?|Lucas|-
+|Installs|Cant. de Apps distintas instaladas|count_app_dif|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
 |Installs|Instaló en la ventana anterior|-|-|-
 |Installs|Cantidad de clicks por evento|-|-|-
 |Installs|Una vez armado los features, cuantos K vecinos instalaron|-|-|-
 |Clicks|Armar dimensiones de device y ver cuarto donde tiende a hacer clicks|-|-|-
-|Clicks|Cantidad de Advertisers que los tiene|-|-|-
-|Clicks|Tiempo promedio de clicks|-|-|-
+|Clicks|Cantidad de Advertisers que los tiene|amount_dif_advertisers|Manu|-
+|Clicks|Tiempo promedio de clicks|timeToClick_mean |Manu|-
  

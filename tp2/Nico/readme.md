@@ -25,16 +25,18 @@ Features posibles
 |Auctions|Cant. de sources distintos que tienen el dispositivo|amount_dif_src |Manu|-
 |Auctions|Cant. de apariciones totales|auctions_total|Nico|-
 |Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour|Nico|-
-|Auctions|Tiempo medio entre apariciones|(En curso)|Manu|-
+|Auctions|Tiempo medio entre apariciones|secs_to_next_mean|Nico|-
 |Auctions|lambda de una exponencial en los tiempos de un usuario|-|-|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
-|Auctions|Cuantas veces aparecio el 20 o 21|-|-|-
-|Auctions|Aparecio el fin de semana?|-|-|-
-|Events|Cant. de cada evento|-|-|-
-|Events|Ultimo evento|-|-|-
-|Events|Ultimos eventos fueron con wifi?|-|-|-
+|Auctions|Cuantas veces aparecio el 20 o 21|(en curso)|Nico|-
+|Auctions|Se realizó subastan entre [0,2] hs|alta_demanda|Lucas|-
+|Auctions|Ponderación respecto a horarios|pond_hora_ext|Lucas|-
+|Auctions|Aparecio el fin de semana?|appears_on_weekend |Manu|-
+|Events|Cant. de cada evento|amount_events|Manu|-
+|Events|Ultimo evento|last_event (y los que no tienen events?)|Manu|-
+|Events|Ultimos eventos fueron con wifi?| wifi | Manu |-
 |Events|Secuencia de n eventos|-|-|-
-|Installs|Cant. de Apps distintas instaladas|-|-|-
+|Installs|Cant. de Apps distintas instaladas|?|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
 |Installs|Instaló en la ventana anterior|-|-|-
 |Installs|Cantidad de clicks por evento|-|-|-

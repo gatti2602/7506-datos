@@ -29,12 +29,11 @@ Features posibles
 |Auctions|lambda de una exponencial en los tiempos de un usuario|-|-|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
 |Auctions|Cuantas veces aparecio el 20 o 21|-|-|-
-|Auctions|Aparecio el fin de semana?|(En curso)|Manu|-
-|Auctions|Aparecio el fin de semana?|(En curso)|Manu|-
 |Auctions|Se realizó subastan entre [0,2] hs|alta_demanda|Lucas|SI
 |Auctions|Ponderación respecto a horarios|pond_hora_ext|Lucas|SI
-|Events|Cant. de cada evento|-|-|-
-|Events|Ultimo evento|-|-|-
+|Auctions|Aparecio el fin de semana?|appears_on_weekend |Manu|-
+|Events|Cant. de cada evento|(En curso)|Manu|-
+|Events|Ultimo evento|(En curso)|Manu|-
 |Events|Ultimos eventos fueron con wifi?|-|-|-
 |Events|Secuencia de n eventos|-|-|-
 |Installs|Cant. de Apps distintas instaladas|-|-|-

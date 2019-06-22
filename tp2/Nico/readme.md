@@ -44,3 +44,4 @@ Features posibles
 |Clicks|Armar dimensiones de device y ver cuarto donde tiende a hacer clicks|-|-|-
 |Clicks|Cantidad de Advertisers que los tiene|-|-|-
 |Clicks|Tiempo promedio de clicks|-|-|-
+ 

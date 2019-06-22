@@ -29,7 +29,7 @@ Features posibles
 |Auctions|lambda de una exponencial en los tiempos de un usuario|-|-|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
 |Auctions|Cuantas veces aparecio el 20 o 21|-|-|-
-|Auctions|Aparecio el fin de semana?|-|-|-
+|Auctions|Aparecio el fin de semana?|(En curso)|Manu|-
 |Events|Cant. de cada evento|-|-|-
 |Events|Ultimo evento|-|-|-
 |Events|Ultimos eventos fueron con wifi?|-|-|-

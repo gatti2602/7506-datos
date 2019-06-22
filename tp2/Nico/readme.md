@@ -22,7 +22,7 @@ Features posibles
 
 |Dataframe|Feature|Implementado en Col.|Implementado Por|Funciona?|
 |---------|-------|--------------------|----------------|---------|
-|Auctions|Cant. de sources distintos que tienen el dispositivo|-|-|-
+|Auctions|Cant. de sources distintos que tienen el dispositivo|- (En curso)|Manu|-
 |Auctions|Cant. de apariciones totales|auctions_total (En curso)|Nico|-
 |Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour (en curso)|Nico|-
 |Auctions|Tiempo medio entre apariciones|-|-|-

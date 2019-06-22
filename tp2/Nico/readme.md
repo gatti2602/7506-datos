@@ -39,6 +39,7 @@ Features posibles
 |Installs|Cant. de Apps distintas instaladas|count_app_dif|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
 |Installs|Instaló en la ventana anterior|win_2_in_1,win_3_in_2|Lucas|-
+|Installs|Cantidad tipos por ref_hash|count_for_kind|Lucas|-
 |Installs|Cantidad de clicks por evento|-|-|-
 |Installs|Una vez armado los features, cuantos K vecinos instalaron|-|-|-
 |Clicks|Armar dimensiones de device y ver cuarto donde tiende a hacer clicks|-|-|-

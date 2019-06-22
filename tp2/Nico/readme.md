@@ -23,18 +23,18 @@ Features posibles
 |Dataframe|Feature|Implementado en Col.|Implementado Por|Funciona?|
 |---------|-------|--------------------|----------------|---------|
 |Auctions|Cant. de sources distintos que tienen el dispositivo|amount_dif_src |Manu|-
-|Auctions|Cant. de apariciones totales|auctions_total (En curso)|Nico|-
-|Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour (en curso)|Nico|-
-|Auctions|Tiempo medio entre apariciones|(En curso)|Manu|-
-|Auctions|lambda de una exponencial en los tiempos de un usuario|-|-|-
+|Auctions|Cant. de apariciones totales|auctions_total|Nico|-
+|Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour|Nico|-
+|Auctions|Tiempo medio entre apariciones|secs_to_next_mean|Nico|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
-|Auctions|Cuantas veces aparecio el 20 o 21|-|-|-
+|Auctions|Cuantas veces aparecio el 20 o 21|amount_auctions_in_weekend|Nico|-
+|Auctions|Ultimo dia de la ventana es  weekend|is_last_weekend|Nico|-
 |Auctions|Se realizó subastan entre [0,2] hs|alta_demanda|Lucas|-
 |Auctions|Ponderación respecto a horarios|pond_hora_ext|Lucas|-
 |Auctions|Aparecio el fin de semana?|appears_on_weekend |Manu|-
-|Events|Cant. de cada evento|(En curso)|Manu|-
-|Events|Ultimo evento|(En curso)|Manu|-
-|Events|Ultimos eventos fueron con wifi?|-|-|-
+|Events|Cant. de cada evento|amount_events|Manu|-
+|Events|Ultimo evento|last_event (y los que no tienen events?)|Manu|-
+|Events|Ultimos eventos fueron con wifi?| wifi | Manu |-
 |Events|Secuencia de n eventos|-|-|-
 |Installs|Cant. de Apps distintas instaladas|count_app_dif|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
@@ -44,3 +44,4 @@ Features posibles
 |Clicks|Armar dimensiones de device y ver cuarto donde tiende a hacer clicks|-|-|-
 |Clicks|Cantidad de Advertisers que los tiene|-|-|-
 |Clicks|Tiempo promedio de clicks|-|-|-
+ 

@@ -27,6 +27,7 @@ Features posibles
 |Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour|Nico|-
 |Auctions|Tiempo medio entre apariciones|secs_to_next_mean|Nico|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
+|Auctions|Ponderación de tiempo desde ultima aparicion|pond_since_last_arrival|Lucas|
 |Auctions|Cuantas veces aparecio el 20 o 21|amount_auctions_in_weekend|Nico|-
 |Auctions|Ultimo dia de la ventana es  weekend|is_last_weekend|Nico|-
 |Auctions|Se realizó subastan entre [0,2] hs|alta_demanda|Lucas|-
@@ -36,6 +37,7 @@ Features posibles
 |Events|Ultimo evento|last_event (y los que no tienen events?)|Manu|-
 |Events|Ultimos eventos fueron con wifi?| wifi | Manu |-
 |Events|Secuencia de n eventos|-|-|-
+|Events|Ponderacion por día M o X|pond_day_ev|Lucas|-
 |Installs|Cant. de Apps distintas instaladas|count_app_dif|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
 |Installs|Instaló en la ventana anterior|win_2_in_1,win_3_in_2|Lucas|-

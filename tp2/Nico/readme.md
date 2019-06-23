@@ -27,6 +27,7 @@ Features posibles
 |Auctions|Cant. de apariciones en la ultima hora|auctions_last_hour|Nico|-
 |Auctions|Tiempo medio entre apariciones|secs_to_next_mean|Nico|-
 |Auctions|Tiempo desde ultima aparicion|secs_since_last_arrival|Nico|
+|Auctions|Ponderación de tiempo desde ultima aparicion|pond_since_last_arrival|Lucas|
 |Auctions|Cuantas veces aparecio el 20 o 21|amount_auctions_in_weekend|Nico|-
 |Auctions|Ultimo dia de la ventana es  weekend|is_last_weekend|Nico|-
 |Auctions|Se realizó subastan entre [0,2] hs|alta_demanda|Lucas|-

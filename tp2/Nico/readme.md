@@ -40,6 +40,7 @@ Features posibles
 |Events|Secuencia de n eventos|-|-|-
 |Events|Ponderacion por día M o X|pond_M_X_ev|Lucas|-
 |Events|Ponderacion por día horario|pond_hour_ev|Lucas|-
+|Events|Application_id mas frecuente |Manu |-
 |Installs|Cant. de Apps distintas instaladas|count_app_dif|Lucas|-
 |Installs|Lista de equipos con mas instalaciones y  si device pertenece|-|-|-
 |Installs|Instaló en la ventana anterior|win_2_in_1,win_3_in_2|Lucas|-
